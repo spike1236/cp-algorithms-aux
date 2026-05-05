@@ -4,3 +4,5 @@
 [![GitHub Pages](https://img.shields.io/static/v1?label=GitHub+Pages&message=CP-Algorithms+library+&color=brightgreen&logo=github)](https://lib.cp-algorithms.com/)
 
 Auxiliary stuff for article sources.
+
+<!-- preview smoke test -->
